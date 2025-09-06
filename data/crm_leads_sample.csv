@@ -1,0 +1,6 @@
+id,created_at,channel,source,status
+1,2024-06-01 10:21:00,Ads,Google,New
+2,2024-06-01 15:03:00,Email,,Contacted
+3,2024-06-02 09:10:00,Referral,Partner A,Qualified
+4,2024-06-02 12:45:00,Ads,Facebook,Won
+5,2024-06-03 14:20:00,Event,SaaStr,Lost
